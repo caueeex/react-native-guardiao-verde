@@ -27,7 +27,7 @@ O Guardião Verde é uma plataforma dedicada ao monitoramento e análise de dado
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/guardiao-verde.git
+git clone https://github.com/caueeex/guardiao-verde.git
 ```
 
 2. Instale as dependências:
@@ -73,6 +73,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📧 Contato
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/guardiao-verde](https://github.com/seu-usuario/guardiao-verde)
+Seu Nome - Cauê Sotero - soterocaue2@gmail.com
